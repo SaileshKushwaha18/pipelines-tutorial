@@ -466,3 +466,7 @@ If you want to re-run the pipeline again, you can use the following short-hand c
 ```
 tkn pipeline start build-and-deploy --last
 ```
+
+
+https://github.com/openshift/pipelines-tutorial
+
